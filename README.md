@@ -75,6 +75,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - Vedant Solanki
 
-Project Link: [https://github.com/yourusername/campus-placement-portal](https://github.com/yourusername/campus-placement-portal)
+Project Link: https://storied-selkie-7acae3.netlify.app/
