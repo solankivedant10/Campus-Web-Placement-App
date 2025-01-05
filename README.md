@@ -77,4 +77,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - Vedant Solanki
 
-Project Link: https://storied-selkie-7acae3.netlify.app/
+Project Link: https://elevateplacements.netlify.app/
